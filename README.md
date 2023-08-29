@@ -1,4 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d9027ab6-12ce-4786-8082-da9e7ee942f4/deploy-status)](https://app.netlify.com/sites/cadastrojscrud/deploys)
+
 # Site Responsivo - NetForge Internet
 
 ## Visão Geral
